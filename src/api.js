@@ -1,6 +1,6 @@
 (function(http) {
 
-  var api = window.ForgeWebComponents.Api || {};
+  var api = window.ForgeWebComponents.Api = window.ForgeWebComponents.Api || {};
 
   function addRootUrl(sourceUrl) {
 
