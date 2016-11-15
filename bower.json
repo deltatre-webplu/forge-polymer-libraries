@@ -1,0 +1,25 @@
+{
+  "name": "forge-polymer-libraries",
+  "homepage": "https://github.com/deltatre-webplu/forge-polymer-libraries",
+  "authors": [
+    "WebPLU"
+  ],
+  "description": "Common libraries for Forge Polymer elements (and Forge integration)",
+  "main": "forge-polymer-libraries.html",
+  "keywords": [
+    "libraries",
+    "forge"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deltatre-webplu/forge-polymer-libraries"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
